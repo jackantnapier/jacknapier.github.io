@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Sociology, University of Cambridge, 2029 (expected)
+* M.Phil. in Politics and International Studies, University of Cambridge, 2025 (merit)
+* B.A. in International Relations, New York University, 2024 (summa cum laude)
 
 Work experience
 ======
@@ -43,7 +43,7 @@ Skills
 
 Publications
 ======
-### Published Books
+### Books
 <ul>
 {% for post in site.publications %}
   {% if post.category == "books" %}
@@ -82,6 +82,23 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Volunteer service
 ======
-* Currently signed in to 43 different slack teams
+* Summer 2015: Research Assistant
+  * GitHub University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+ 
+Awards and honours
+======
+* Summer 2015: Research Assistant
+  * GitHub University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+ 
+Memberships
+======
+* Summer 2015: Research Assistant
+  * GitHub University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
