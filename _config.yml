@@ -86,10 +86,16 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
+  articles:
     title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Presentations'
+  theses:
+    title: 'Academic Theses'
+  conference papers:
+    title: 'Conference Papers'
+  papers:
+    title: 'Coursework Papers'
+  translations:
+    title: 'Academic Translations'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
