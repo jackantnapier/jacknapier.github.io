@@ -43,11 +43,32 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-  {% if post.type == "books" or post.type == "articles" or post.type == "theses" %}
+### Published Books
+<ul>
+{% for post in site.publications %}
+  {% if post.type == "books" %}
     {% include archive-single.html %}
   {% endif %}
-{% endfor %}</ul>
+{% endfor %}
+</ul>
+
+### Journal Articles
+<ul>
+{% for post in site.publications %}
+  {% if post.type == "articles" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+</ul>
+
+### Academic Theses
+<ul>
+{% for post in site.publications %}
+  {% if post.type == "theses" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+</ul>
   
 Talks
 ======
