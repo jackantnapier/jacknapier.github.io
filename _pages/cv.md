@@ -43,9 +43,11 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <ul>{% for post in site.publications %}
+  {% if post.type == "X" or post.type == "X" or post.type == "X" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}</ul>
   
 Talks
 ======
