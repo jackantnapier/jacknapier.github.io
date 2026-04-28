@@ -46,7 +46,7 @@ Publications
 ### Published Books
 <ul>
 {% for post in site.publications %}
-  {% if post.type == "books" %}
+  {% if post.category == "books" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
@@ -55,7 +55,7 @@ Publications
 ### Journal Articles
 <ul>
 {% for post in site.publications %}
-  {% if post.type == "articles" %}
+  {% if post.category == "articles" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
@@ -64,7 +64,7 @@ Publications
 ### Academic Theses
 <ul>
 {% for post in site.publications %}
-  {% if post.type == "theses" %}
+  {% if post.category == "theses" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
