@@ -29,11 +29,11 @@ author:
   bio              : "PhD candidate focusing on the political sociology of 21st-century migration."
   location         : "Cambridge, UK"
   employer         : "University of Cambridge"
-  uri              : # URL
+  uri              : "https://research.sociology.cam.ac.uk/profile/jack-napier-2025"
   email            : "jan47@cam.ac.uk" 
 
   # Academic websites
-  academia         : "https://research.sociology.cam.ac.uk/profile/jack-napier-2025"
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # URL
   inspire-hep      : # URL
