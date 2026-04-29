@@ -30,6 +30,11 @@ var addressPoints = [
     -0.1277653
   ],
   [
+    "The Power of Propaganda<br />University of Cambridge; Cambridge, England, UK",
+    52.1975846,
+    0.1391537
+  ],
+  [
     "Israel, Gaza and the West Bank: Relationships between Civilians and Their Forces<br />Naval Academy Foreign Affairs Conference 2024, US Naval Academy; Annapolis, Maryland, US",
     38.9786401,
     -76.492786
