@@ -1,23 +1,23 @@
 var addressPoints = [
   [
-    "European Intervention in the US Civil War<br />Pembroke College, University of Cambridge; Cambridge, England, UK",
-    52.2055314,
-    0.1186637
-  ],
-  [
     "Balibar and Wallerstein on Race, Ethnicity and Class<br />Pembroke College, University of Cambridge; Cambridge, England, UK",
-    52.2055314,
-    0.1186637
+    52.1975846,
+    0.1391537
   ],
   [
     "The Power of Propaganda<br />Pembroke College, University of Cambridge; Cambridge, England, UK",
-    52.2055314,
-    0.1186637
+    52.1975846,
+    0.1391537
   ],
   [
     "When the Left Speaks Like the Right (Paper Presentation)<br />The Migration Conference 2026, Bratislava University of Economics and Business; Bratislava, Bratislavsk\u00fd kraj, Slovakia",
     48.1516988,
     17.1093063
+  ],
+  [
+    "European Intervention in the US Civil War<br />Pembroke College, University of Cambridge; Cambridge, England, UK",
+    52.1975846,
+    0.1391537
   ],
   [
     "When the Left Speaks Like the Right (Paper Presentation)<br />International Migration Research Network (IMISCOE) Annual Conference 2026, University of Girona; Girona, Catalonia, Spain",
