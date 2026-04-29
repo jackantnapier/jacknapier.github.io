@@ -17,29 +17,27 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Library Invigilator (07/2025-present), Pembroke College (University of Cambridge)
+* Admissions Observer (11/2025-12/2025), Pembroke College (University of Cambridge)
+* Finance Fellow (05/2024-09/2024), George Whitesides for Congress
+* Program Assistant (01/2023-05/2024), Deutsches Haus at NYU
+* Research Assistant (09/2023-05/2024), Center for European and Mediterranean Studies at NYU
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* English (C2)
+* German (B2/C1)
+* French (A2)
+* Spanish (A2)
+* Italian (A1)
+* R programming platform
+* LaTeX programming platform
+* Microsoft Office suite
+* iWork suite
+* Google Workspace suite
+* Canva suite
+* CallTime.AI system
+* Atlas.TI system
 
 Publications
 ======
@@ -84,21 +82,30 @@ Teaching
   
 Volunteer service
 ======
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* LGBTQ+ Officer (12/2024-present), Pembroke College Graduate Parlour Committee
+* Associate Editor (10/2024-12/2025), Cambridge Review of International Affairs
+* Logistics Officer (12/2024-06/2025), Pembroke College May Ball Committee
+* Contributor, Central and Eastern European Section (10/2023-04/2024), International Relations Insider
+* Welcome Captain (09/2021-01/2024), New York University Centre for Student Life
+* Director of Advocacy (09/2022-05/2023), Palladium Unified Government
  
-Awards and honours
+Awards
 ======
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Cambridge Political Economy Society Trust
+  * Date: February 2026
+  * Title: Supplementary Doctoral Funding
+  * Amount: GBP 5,000
  
 Memberships
 ======
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Pembroke College (University of Cambridge), Lifetime Member
+* University of Cambridge, Alumnus
+* New York University, Alumnus
+* New York University in Prague, Alumnus
+* New York University in Berlin, Alumnus
+* ΠΣΑ (ΒΗ Chapter), Lifetime Student Member
+* ​ΦΒΚ Society (Β Chapter of New York), Lifetime Member
+* Cambridge Union Society, Lifetime Member
+* British Sociological Association, Member
+* IMISCOE PhD Network, Member
+* University and College Union, Member
